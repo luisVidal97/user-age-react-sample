@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+  padding: 15px;
+}
+
+.label {
+  font-weight: bold;
+}
